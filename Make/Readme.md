@@ -42,3 +42,8 @@ Este es el contenido de los 3 archivos, ahora usare el contenido del makefile pa
 
 He puesto @ delante de cada comando para evitar que cada vez que se ejecute nos imprima cada comando
 
+## 4. Comproveu, i mostreu a la memòria el funcionament de tots els targets.
+
+Para hacer estas pruebas he quitado los "@"
+
+![Contenido de archivos calc](../imgs/5.png)
